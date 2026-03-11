@@ -122,6 +122,16 @@ accelerating, or worth excluding from your portfolio
 
 ---
 
+## 📬 Contact
+
+Source code available on request.
+
+**Kshitij Bhandari**
+- 💼 [LinkedIn](linkedin.com/in/kshitijbhandari)
+- 📧 kshitijbhandari62@gmail.com
+
+---
+
 ## 🌐 Live App
 
 👉 **[https://portfolio-construction---factor-model-95qos8gfhft3fkcqnqfius.streamlit.app/](https://portfolio-construction---factor-model-95qos8gfhft3fkcqnqfius.streamlit.app/)**
